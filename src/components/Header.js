@@ -19,6 +19,7 @@ export class Header extends Component {
     render() {
         const {toggle} = this.state;
         return (
+            
             <header>
                 <div className='menu' onClick={this.menuToggle}>
                     <img src={Menu} alt='' width='20' />

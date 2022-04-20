@@ -76,5 +76,6 @@ header .close {
         right: 20px;
     }
     header ul.toggle{
+        top: 0;
     }
 }
